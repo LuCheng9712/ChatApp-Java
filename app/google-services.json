@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "3535461065",
+    "firebase_url": "https://chatapp-java-c3197.firebaseio.com",
+    "project_id": "chatapp-java-c3197",
+    "storage_bucket": "chatapp-java-c3197.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3535461065:android:1189e68ab3e107de",
+        "android_client_info": {
+          "package_name": "com.example.lucheng.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3535461065-kc3q1dveqo3ophukv17jurn9icpldu01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucheng.chatapp",
+            "certificate_hash": "55ca0a19c4f90f0c25c4b7b3c674a88cf05bb1c2"
+          }
+        },
+        {
+          "client_id": "3535461065-p2qfgthqjtprvrvphtkjbtitjq08m04c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_rb1_MWrSDUoTXbT_65B_-obilOxHoY0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3535461065-p2qfgthqjtprvrvphtkjbtitjq08m04c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
